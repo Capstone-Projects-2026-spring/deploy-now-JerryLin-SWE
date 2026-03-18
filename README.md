@@ -4,7 +4,7 @@
 > Deploy a real app to the internet. Make a change. Watch it update. Then learn how it works.
 
 👉 **If you finish Part 1, you've done the most important thing today.**
-Meow.....
+
 ---
 
 ## 🎯 What You'll Do
@@ -82,6 +82,8 @@ Find the clearly marked section:
 <!-- ================================================================
      👋 STUDENT EDIT ZONE — CHANGE THIS SECTION!
      ================================================================ -->
+
+    
 ```
 
 ---
@@ -89,8 +91,8 @@ Find the clearly marked section:
 ### Step 2 — Change your name and message
 
 ```html
-<h1>👋 Hello from <strong>Ada Lovelace</strong>!</h1>
-<p class="tagline">I just deployed something real! 🚀</p>
+<h1>👋 Hello from <strong>Jerry ~~</strong>!</h1>
+<p class="tagline">I just deployed something real! BOOOM 🚀</p>
 ```
 
 **Bonus:** Change the banner color. Find this in the `<style>` block:
